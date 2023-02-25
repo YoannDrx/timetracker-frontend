@@ -48,7 +48,7 @@ yarn dev
 
 ## 🚀 Deploy
 
-⇒ 
+⇒ https://timetracker-frontend.vercel.app/
 
 ## 🧑‍💻 Authors
 
